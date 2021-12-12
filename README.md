@@ -1,3 +1,7 @@
+# cdk-workshop
+I tried aws cdk workshop.
+https://summit-online-japan-cdk.workshop.aws/
+
 # Welcome to your CDK TypeScript project!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CdkWorkshopStack`)
